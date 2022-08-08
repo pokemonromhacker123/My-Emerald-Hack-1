@@ -115,7 +115,7 @@
       "id": "LAYOUT_DEWFORD_TOWN",
       "name": "DewfordTown_Layout",
       "width": 20,
-      "height": 20,
+      "height": 22,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Dewford",
       "border_filepath": "data/layouts/DewfordTown/border.bin",
@@ -2417,7 +2417,7 @@
       "width": 58,
       "height": 26,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "0",
+      "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/UnusedOutdoorArea/border.bin",
       "blockdata_filepath": "data/layouts/UnusedOutdoorArea/map.bin"
     },
@@ -4410,6 +4410,46 @@
       "secondary_tileset": "gTileset_MysteryEventsHouse",
       "border_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/border.bin",
       "blockdata_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/map.bin"
+    },
+    {
+      "id": "LAYOUT_DEWFORD_BEACH",
+      "name": "DewfordBeach_Layout",
+      "width": 46,
+      "height": 60,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Dewford",
+      "border_filepath": "data/layouts/DewfordBeach/border.bin",
+      "blockdata_filepath": "data/layouts/DewfordBeach/map.bin"
+    },
+    {
+      "id": "LAYOUT_LITTLEROOT_PATH",
+      "name": "LittlerootPath_Layout",
+      "width": 20,
+      "height": 27,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/LittlerootPath/border.bin",
+      "blockdata_filepath": "data/layouts/LittlerootPath/map.bin"
+    },
+    {
+      "id": "LAYOUT_SANCTUARY_GROVE",
+      "name": "SanctuaryGrove_Layout",
+      "width": 40,
+      "height": 46,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/SanctuaryGrove/border.bin",
+      "blockdata_filepath": "data/layouts/SanctuaryGrove/map.bin"
+    },
+    {
+      "id": "LAYOUT_RUSTURF_TUNNEL_B1F",
+      "name": "RusturfTunnel_B1F_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Cave",
+      "border_filepath": "data/layouts/RusturfTunnel_B1F/border.bin",
+      "blockdata_filepath": "data/layouts/RusturfTunnel_B1F/map.bin"
     }
   ]
 }
